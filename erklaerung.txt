@@ -1,0 +1,14 @@
+Schritt-für-Schritt-Anleitung:
+Implementierung der Zeitmessung:
+
+Die Funktion measure_time misst die Ausführungszeit eines Algorithmus.
+Sie verwendet die time-Bibliothek, um die Zeit vor und nach der Ausführung der Algorithmen zu messen und die Differenz zu berechnen.
+Messung der Ausführungszeit für verschiedene Beträge:
+
+Eine Liste von Beträgen wird definiert, für die die Ausführungszeit gemessen wird: [100, 500, 1000, 5000, 10000].
+Die Ausführungszeit für den gierigen Algorithmus und den Algorithmus der dynamischen Programmierung wird für jeden Betrag gemessen und die Ergebnisse gespeichert.
+Ausgabe der Ergebnisse und Schlussfolgerungen:
+
+Die gemessenen Ausführungszeiten für beide Algorithmen werden ausgegeben.
+Die Ergebnisse und Schlussfolgerungen werden in die Datei readme.md geschrieben, diesmal unter Verwendung des utf-8-Encodings, um Unicode-Zeichen zu unterstützen.
+Dieser angepasste Code sollte das Problem mit dem Unicode-EncodeError beheben und die Datei korrekt speichern.
